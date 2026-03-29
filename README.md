@@ -29,7 +29,7 @@ The primary goals of this project are:
 - Track profit and revenue trends  
 - Evaluate customer satisfaction metrics  
 - Identify monthly sales trends  
-- Provide data-driven insights to improve business performance  
+- Provide data driven insights to improve business performance  
 
 ---
 
