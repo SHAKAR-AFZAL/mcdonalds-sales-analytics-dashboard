@@ -19,7 +19,7 @@ _Analyzing the sales performance, profitability, and customer satisfaction trend
 ---
 
 ## Overview
-This project focuses on analyzing McDonald's South America sales performance to understand revenue trends, profit margins, and customer satisfaction metrics. An interactive Excel dashboard was developed to transform raw business data into clear, actionable insights for better decision-making.
+This project focuses on analyzing McDonald's South America sales performance to understand revenue trends, profit margins, and customer satisfaction metrics. An interactive Excel dashboard was developed to transform the raw business data into clear, actionable insights for better decision-making.
 
 ---
 
