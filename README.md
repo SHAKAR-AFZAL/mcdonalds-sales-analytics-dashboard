@@ -26,7 +26,7 @@ This project focuses on analyzing McDonald's South America sales performance to 
 ## Project Objective
 The primary goals of this project are:
 - Analyze overall sales performance across South America  
-- Track profit and revenue trends  
+- Track the profit and revenue trends  
 - Evaluate customer satisfaction metrics  
 - Identify monthly sales trends  
 - Provide data driven insights to improve business performance  
