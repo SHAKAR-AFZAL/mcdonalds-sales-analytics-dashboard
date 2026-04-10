@@ -1,4 +1,4 @@
-# 🍔 McDonald's South America Sales Dashboard Analysis
+#  McDonald's South America Sales Dashboard Analysis
 
 _Analyzing the sales performance, profitability, and customer satisfaction trends to support smarter business decisions using Microsoft Excel._
 
