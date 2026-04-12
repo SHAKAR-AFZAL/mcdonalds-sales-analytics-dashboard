@@ -78,7 +78,7 @@ The McDonald's South America dataset is stored in Excel format and includes the 
 
 ### Sales Performance
 - Sales showed steady growth toward the end of 2022  
-- Mid-year performance indicated the slight seasonal decline  
+- Mid year performance indicated the slight seasonal decline  
 - Strong recovery observed in final months  
 
 ### Profit Analysis
