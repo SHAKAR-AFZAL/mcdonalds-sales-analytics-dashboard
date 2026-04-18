@@ -120,7 +120,7 @@ Businesses can use these insights to:
 - Focus on high-performing regions  
 - Improve customer satisfaction  
 - Optimize operational performance  
-- Make data-driven strategic decisions  
+- Make data driven strategic decisions  
 
 ---
 
