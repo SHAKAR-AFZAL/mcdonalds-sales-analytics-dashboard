@@ -117,7 +117,7 @@ The Excel dashboard displays:
 The analysis shows that **sales performance, profit margins, and customer satisfaction** are key drivers of business success. Strong performance in certain regions highlights growth opportunities, while satisfaction metrics reveal areas for operational improvements.
 
 Businesses can use these insights to:
-- Focus on high-performing regions  
+- Focus on high performing regions  
 - Improve customer satisfaction  
 - Optimize operational performance  
 - Make data driven strategic decisions  
