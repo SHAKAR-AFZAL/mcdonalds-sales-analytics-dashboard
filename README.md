@@ -92,7 +92,7 @@ The McDonald's South America dataset is stored in Excel format and includes the 
 - Service and speed showed improvement opportunities  
 
 ### Regional Performance
-- Country-wise comparison revealed top-performing markets  
+- Country wise comparison revealed top-performing markets  
 - Some regions demonstrated consistent growth  
 - Geographic insights highlighted expansion opportunities  
 
