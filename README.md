@@ -69,7 +69,7 @@ The McDonald's South America dataset is stored in Excel format and includes the 
 **Key Visuals**
 - Monthly Sales Trend (2021–2022)  
 - Customer Satisfaction Radar Chart  
-- Country-wise Sales Map  
+- Country wise Sales Map  
 - Sales KPI Cards  
 
 ---
