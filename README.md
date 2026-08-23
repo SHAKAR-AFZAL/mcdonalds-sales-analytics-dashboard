@@ -103,7 +103,7 @@ The McDonald's South America dataset is stored in Excel format and includes the 
 
 The Excel dashboard displays:
 - Sales performance overview  
-- Profit trends  
+- Profit Trends  
 - Customer satisfaction metrics  
 - Country-wise performance  
 - Monthly sales trends  
